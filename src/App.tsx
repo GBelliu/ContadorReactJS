@@ -13,6 +13,7 @@ const App = () => {
     <div>
       <button onClick={handleMinus}>-</button>
       <div>{n}</div>
+      <div>fod</div>
       <button onClick={handleMore}>+</button>
     </div>
   );
